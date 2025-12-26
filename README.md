@@ -44,5 +44,3 @@ This project was developed as part of an academic assignment focusing on **Larav
 - No image upload required for API requests
 
 ---
-
-## Project Structure (Final Files Overview)
